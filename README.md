@@ -46,6 +46,19 @@ The implementation involves the following steps:
 
 The IoT-based plant watering system effectively automates the irrigation process, ensuring optimal watering based on real-time soil moisture levels. The integration with Telegram provides a convenient way for users to monitor and control the system remotely, enhancing user experience and plant care management.
 
+## Screen shots
+1. Circuit diagram
 
+     ![Screenshot (23)](https://github.com/Yashwanth023/IOT-Based-Plant-watering-system/assets/143989092/47d51945-323b-48dd-b067-0271ddc87959)
 
+2. Results
 
+   ![WhatsApp Image 2024-05-13 at 8 49 51 AM](https://github.com/Yashwanth023/IOT-Based-Plant-watering-system/assets/143989092/5dd3ca41-dad6-4f9e-81c5-0af9ec632d15)
+
+   ![WhatsApp Image 2024-05-13 at 8 49 51 AM (1)](https://github.com/Yashwanth023/IOT-Based-Plant-watering-system/assets/143989092/f06d4277-ad20-46cd-ac76-cdb0a651119c)
+
+   ![WhatsApp Image 2024-05-13 at 8 49 52 AM](https://github.com/Yashwanth023/IOT-Based-Plant-watering-system/assets/143989092/486103d8-f8f5-433b-b401-fdd037f8e7e7)
+
+   ![WhatsApp Image 2024-05-13 at 8 49 52 AM (1)](https://github.com/Yashwanth023/IOT-Based-Plant-watering-system/assets/143989092/51d6987a-a88d-4d34-9e99-6a2e38ccd3b8)
+
+   ![WhatsApp Image 2024-05-13 at 8 49 52 AM (2)](https://github.com/Yashwanth023/IOT-Based-Plant-watering-system/assets/143989092/e84b2ab4-7683-411d-b58b-a5d9609bdef3)
